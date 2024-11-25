@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Musyoks
+- 👋 Hi, I’m James Musyoka
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning frontend web development
 - 💞️
